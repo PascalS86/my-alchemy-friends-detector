@@ -1,4 +1,4 @@
-# Alchemy-TF
+# Detector-TF
 
 This is going to be my #AlchemyFriends card-detector.
 It's based on [TF.OBJD](https://github.com/PascalS86/my-tensorflow-object_detection-pkg)
